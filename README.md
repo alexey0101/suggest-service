@@ -6,7 +6,7 @@
 
 ## Демонстрация
 
-![suggest demonstration](https://github.com/alexey0101/suggest-service/raw/main/demo.gif
+![suggest demonstration](https://github.com/alexey0101/suggest-service/raw/main/demo.gif)
 
 ## Формирование Подсказок
 
